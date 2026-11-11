@@ -5,8 +5,9 @@ the `satis` key word.
 
 ## Current tools
 
-Currently we have 3 tools.
+Currently we have 4 tools.
 
 - [satiscode](https://github.com/gtref/satiscode)
 - [SatisDocs](https://github.com/gtref/satisdocs)
 - [SatisTimer](https://github.com/gtref/satistimer)
+- [SatisReader](https://github.com/SatisCorprperation/SatisReader)
