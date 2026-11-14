@@ -11,3 +11,4 @@ Currently we have 4 tools.
 - [SatisDocs](https://github.com/gtref/satisdocs)
 - [SatisTimer](https://github.com/gtref/satistimer)
 - [SatisReader](https://github.com/SatisCorprperation/SatisReader)
+- [SatisPalette](https://github.com/gtref/satispalette)
